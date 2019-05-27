@@ -10,7 +10,7 @@ namespace ValaisBookingV2.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Title = "Home Pge";
+            ViewBag.Title = "Home Page";
 
             return View();
         }
