@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValaisBookingV2", "ValaisBookingV2\ValaisBookingV2.csproj", "{CE573B05-1DF2-4F47-AF2A-CC858FE27374}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF", "EF\EF.csproj", "{7A45030A-8BF5-4668-B05D-7822D86273D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{CE573B05-1DF2-4F47-AF2A-CC858FE27374}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE573B05-1DF2-4F47-AF2A-CC858FE27374}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE573B05-1DF2-4F47-AF2A-CC858FE27374}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A45030A-8BF5-4668-B05D-7822D86273D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A45030A-8BF5-4668-B05D-7822D86273D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A45030A-8BF5-4668-B05D-7822D86273D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A45030A-8BF5-4668-B05D-7822D86273D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
