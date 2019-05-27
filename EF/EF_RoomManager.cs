@@ -11,8 +11,13 @@ namespace ValaisBookingV2.EF
         Modele_ValaisBookingContainer context = new Modele_ValaisBookingContainer();
 
         //Get all rooms
-
         public void GetAllRooms(){
+        }
+
+        public void GetRoom(int IdRoom)
+        {
+          
+
         }
     }
 }

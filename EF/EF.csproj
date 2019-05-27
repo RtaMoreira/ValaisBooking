@@ -46,9 +46,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ValaisBookingV2\ValaisBookingV2.csproj">
-      <Project>{CE573B05-1DF2-4F47-AF2A-CC858FE27374}</Project>
-      <Name>ValaisBookingV2</Name>
+    <ProjectReference Include="..\ValaisBookingV2\ValaisBookingWS.csproj">
+      <Project>{ce573b05-1df2-4f47-af2a-cc858fe27374}</Project>
+      <Name>ValaisBookingWS</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
