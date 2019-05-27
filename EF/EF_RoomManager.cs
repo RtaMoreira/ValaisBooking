@@ -12,6 +12,8 @@ namespace ValaisBookingV2.EF
 
         //Get all rooms
         public void GetAllRooms(){
+            var q = from r in context.Rooms
+                    select r;
         }
 
         public void GetRoom(int IdRoom)
