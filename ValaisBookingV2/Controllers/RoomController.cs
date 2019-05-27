@@ -10,5 +10,6 @@ namespace ValaisBookingV2.Controllers
     public class RoomController : ApiController
     {
         private static readonly HttpClient Httpclient;
+        public String testRita;
     }
 }
